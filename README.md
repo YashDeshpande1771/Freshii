@@ -1,2 +1,2 @@
 # Freshii
-A website using bootstrap for sellig food boxes.
+A website using bootstrap for selling food boxes.
